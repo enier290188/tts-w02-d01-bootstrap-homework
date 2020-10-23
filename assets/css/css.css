@@ -1,0 +1,32 @@
+.bg-primary {
+    background-color: #007cff !important;
+}
+
+.alert-success {
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+}
+
+.navbar-brand {
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.navbar-brand:hover {
+    text-shadow: 2px 2px 4px #d4edda;
+}
+
+.nav-link.active {
+    color: #FFFFFF;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.nav-link.active:hover {
+    color: #FFFFFF;
+    text-shadow: 2px 2px 4px #d4edda;
+}
+
+.nav-link:hover {
+    color: #FFFFFF;
+    text-shadow: 2px 2px 4px #000000;
+}
